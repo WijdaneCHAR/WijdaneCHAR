@@ -6,7 +6,7 @@ An engineering student in computer science in National School of Applied Science
 Also a FRONT-END REACT.JS & ANGULAR profile .
  
 - 🌱 I’m currently learning SPRING
-- 👨‍💻 All of my projects are available at <a href="https://wijdanecharkaoui.netlify.app/">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://wijdanecharkaoui.netlify.app/" target="_blank">My Portfolio</a>
 - 📄 Know about my experiences on  <a href="https://drive.google.com/uc?export=download&id=1TQ49-6QN8w8nuB6kTUHXt4DMpQRH7EK1">My resume</a>
 - 📫 <a href='mailto:wijdanecharkaoui@gmail.com'>Send me a mail </a>
 
@@ -21,7 +21,6 @@ Also a FRONT-END REACT.JS & ANGULAR profile .
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" title="Angular"  alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://www.softfluent.fr/wp-content/uploads/2019/10/asp.net_.png" title="Asp.net" alt="Asp.net" width="40" height="40"/>&nbsp;
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
